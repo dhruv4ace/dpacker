@@ -4,6 +4,8 @@ my engine use and AI and algorithm to analysis the shapes and find a perfect sol
 
 This tool is only works in blender , because blender is an open source software.
 
+***WARNING CHANGE THE FOLDER NAME TO 'dpacker' otherwise tool wont work, first extract this folder then change the name of folder to 'dpacker' , then make it zip and run it
+
 demo video:-
 how to install and use.
 https://youtu.be/m5i2V2HP9F8
