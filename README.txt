@@ -8,4 +8,3 @@ This tool is only works in blender , because blender is an open source software.
 
 demo video:-
 how to install and use.
-https://youtu.be/m5i2V2HP9F8
